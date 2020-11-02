@@ -11,7 +11,6 @@ More Specific papers:
 - Detecting Large-Scale Brain Networks Using EEG: Impact of Electrode Density, Head Modeling and Source Localization
 https://www.frontiersin.org/articles/10.3389/fninf.2018.00004/full
 - Deep Learning with Edge Computing for Localization of Epileptogenicity Using Multimodal rs-fMRI and EEG Big Data https://ieeexplore.ieee.org/abstract/document/8005336
-casa_token=vk1NYF7cDEoAAAAA:g_aaHOdlX7OEVZx4kc8NAXuvjBOvuiAX1hu63A-u9-abdFiB6yzIZpLUSyX7THoZ0QAkfgYF
 - Bayesian EEG source localization using a structured sparsity prior https://www.sciencedirect.com/science/article/pii/S1053811916304554?casa_token=
 RAOu7qnHRIAAAAA:elcaRJu_tdR2fnlpUKNzn4SvnSIBxsZ38ku4ZyYINBcAI97z0FbaMpSPmW1-6ry8oyyQ8DNvEA
 - Simultaneous human intracerebral stimulation and HD-EEG, ground-truth for source localization methods 
